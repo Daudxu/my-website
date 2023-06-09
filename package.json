@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "@astrojs/sitemap": "^1.3.3",
+    "@fontsource/catamaran": "^4.5.10",
+    "@fontsource/solway": "^4.5.12",
+    "@rollup/plugin-yaml": "^4.1.0",
+    "astro": "^2.6.1",
+    "image-size": "^1.0.2",
+    "normalize.css": "^8.0.1"
+  }
+}
